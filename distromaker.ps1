@@ -1,5 +1,5 @@
 ###############################################################################################################
-# DistroMaker v3
+# DistroMaker v4
 # Updates Exchange distribution list membership based on AD atributes.  
 # Preferable to Dynamic Distribution Groups in two cases:
 #   - where list mebmership is dependant on fields other than Container, State, Company, or Department fields 
